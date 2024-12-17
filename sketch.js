@@ -471,7 +471,7 @@ function preload() {
   resultImages.Draw = loadImage('game1/game1_Background_result_Draw.png');
   stopwatchImage = loadImage('game1/game1_Asset_timer.png');
   customFont = loadFont('game1/adooE.otf');
-  explanationImage = loadImage('game2/MiniGame2_Asset_Explanation.png');
+  explanationImage = loadImage('game1/MiniGame1_Asset_Explanation-2.png');
   gifBackground = loadImage('game1/MiniGame1_Asset_MovingRabbit.gif');
   resultGifImages.Win = loadImage('game1/MiniGame1_Asset_RabbitWin.png');
   resultGifImages.Lose = loadImage('game1/MiniGame1_Asset_RabbitLose.png');
