@@ -1557,11 +1557,11 @@ if (mini3_mini3_bgImage === mini3_mini3_nextBg && !mini3_showHalfBall) {
       if(1-imgRate == 0){
         push();
         translate(windowWidth/2,0);
-        textSize(17);
+        textSize(12.5);
         textFont(font);
         textAlign(CENTER, CENTER);
         fill(0);
-        text(user_name, 2, windowHeight*0.25+2-2.6-2-0.5);
+        text(user_name, 2, windowHeight*0.25+2-2.6-2);
         pop();
       }
     } else if(backward%4 == 3){
