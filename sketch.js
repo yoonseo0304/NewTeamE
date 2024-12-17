@@ -1561,7 +1561,7 @@ if (mini3_mini3_bgImage === mini3_mini3_nextBg && !mini3_showHalfBall) {
         textFont(font);
         textAlign(CENTER, CENTER);
         fill(0);
-        text(user_name, 2, 134);
+        text(user_name, 2, 132.7);
         pop();
       }
     } else if(backward%4 == 3){
