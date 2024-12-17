@@ -627,7 +627,7 @@ function preload() {
   }
 
   // Loading
-  loading = loadImage('Loading_Background.GIF');
+  loading = loadImage('Loading_Background.gif');
 
   // Back
   cus_back = [];
